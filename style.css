@@ -22,6 +22,11 @@ h4 {
     font-family: "EB Garamond", serif;
     font-weight: 700;
     font-style: normal;
+    color: #000000;
+}
+
+p {
+    color: #000000;
 }
 
 section {
@@ -30,10 +35,6 @@ section {
 
 #name {
     margin-bottom: 5px;
-}
-
-#role {
-    /* font-size: 16px; */
 }
 
 #headshot {
